@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BalancedParenthesesUsingSta
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayedQueue", "ArrayedQueue\ArrayedQueue.csproj", "{AD821373-F689-4829-B65B-27418B1E1C2E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearchTree", "BinarySearchTree\BinarySearchTree.csproj", "{16CFF321-C217-4813-BA71-0BE4860F38FC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{AD821373-F689-4829-B65B-27418B1E1C2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD821373-F689-4829-B65B-27418B1E1C2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD821373-F689-4829-B65B-27418B1E1C2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16CFF321-C217-4813-BA71-0BE4860F38FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16CFF321-C217-4813-BA71-0BE4860F38FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16CFF321-C217-4813-BA71-0BE4860F38FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16CFF321-C217-4813-BA71-0BE4860F38FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
